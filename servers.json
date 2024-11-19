@@ -1,8 +1,8 @@
 {
-  "servers": [
-    {
-      "name": "hokkss",
-      "address": "https://anisette-v3-serverme.onrender.com"
-    }
-  ]
+    "servers": [
+        {
+            "name": "Hokkss",
+            "address": "https://anisette-v3-serverme.onrender.com"
+        }
+    ]
 }
